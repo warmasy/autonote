@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: 电机选型计算案例
+  chapters:
+  - file: 电机选型计算案例/普通电机选型计算案例
+  - file: 电机选型计算案例/伺服电机选型计算案例
+
+
+
+
+
